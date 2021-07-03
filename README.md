@@ -4,35 +4,6 @@
 <img src="https://i.imgur.com/SqKN2rp.png?1" alt="Imagem do logo do nosso projeto Do campo pra mesa é um círculo verde escuro com detalhes brancos e uma caixa com legumes em cima e em baixo escrito Do campo pra mesa" />
 </p>
 
-## 🎯 O desafio
-<img align="right" src="https://i.imgur.com/8vwPGFm.jpg?1" alt="Imagem da Onu com os 17 objetivos sustentáveis">
-Desenvolver um e-commerce ou rede social utilizando o que aprendemos no curso. O grupo deve escolher uma das 17 objetivos de desenvolvimento sustentável da Onu como tema do seu projeto. 
-<br>
-Os Objetivos de Desenvolvimento Sustentável são um apelo global à ação para acabar com a pobreza, proteger o meio ambiente e o clima e garantir que as pessoas, em todos os lugares, possam desfrutar de paz e de prosperidade. Estes são os objetivos para os quais as Nações Unidas estão contribuindo a fim de que possamos atingir a Agenda 2030 no Brasil.
-<br>
-
-<hr>
-
-## 💡 Objetivo escolhido e Solução proposta
-<p align="center">
-<img align="left" src="https://i.imgur.com/xlrRK7Z.png" alt="Objetivo escolhido pelo grupo: objetivo 2 da Onu fome zero e agricultura sustentável">
-</p>
-
-<img align="left" src="https://i.imgur.com/ALcZUGx.jpg" alt="Imagem círculo de ouro com 3 camadas borda externa escrito O que? borda média escrito como? e a camada mais interna escrito por quê? ">
-
-**O que:** Acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura sustentável — Objetivo 2 da ONU.
-
-**Por quê:** Índices de fome e extrema pobreza aumentaram ainda mais em tempos de pandemia do COVID-19. Além disso, produtores rurais estão enfrentando dificuldades para cultivar e distribuir alimentos.
-
-**Como:** Divulgando empresas e sites de instituições que trabalhem com arrecadação e doação de alimentos saudáveis para pessoas em situações vulneráveis e crianças. Trabalhando como mediador entre consumidor e produtor, oferecendo descontos em próximas compras ou garantindo que parte do valor da venda vá para a caridade.
-
-#### **Solução proposta:** Desenvolver uma plataforma de e-commerce na qual diversos consumidores e pequenos produtores rurais possam se conectar, garantindo alimentos sustentáveis em lares. 
-<p align="center">
-<img src="https://i.imgur.com/OJAtGyw.jpg" alt="Imagem a esquerda um produtor rural e a direita um consumidor pesquisando na internet e no centro foto de um monitor com a nosso e-commerce na tela">
-</p>
-
-<hr>
-
 ##  ⚙  Tecnologias utilizadas
 <p align="center">
 <img src="https://i.imgur.com/0yXQ93f.jpg" alt="tecnolgias utilizadas html, css, javascript, bootstrap, angular, typescript, java, spring boot, mysql, docker">
