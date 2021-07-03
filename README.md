@@ -11,6 +11,18 @@
 
 <p>Home do site Do Campo Pra Mesa.</p>
 
+<p align="center">
+<img src="https://imgur.com/l6CLZSr.jpg" alt="Front-End do Projeto">
+</p>
+
+<p>Home do site Do Campo Pra Mesa.</p>
+
+<p align="center">
+<img src="https://imgur.com/PrJJATs.jpg" alt="Front-End do Projeto">
+</p>
+
+<p>Imagem protótipo da página Loja do Projeto.</p>
+
 ##  ⚙  Tecnologias utilizadas
 <p align="center">
 <img src="https://i.imgur.com/0yXQ93f.jpg" alt="tecnolgias utilizadas html, css, javascript, bootstrap, angular, typescript, java, spring boot, mysql, docker">
