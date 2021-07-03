@@ -6,7 +6,7 @@
 
 ## ⚙ Front-End 
 <p align="center">
-<img src="https://imgur.com/n7W3bPD" alt="Front-End do Projeto">
+<img src="https://imgur.com/n7W3bPD.jpg" alt="Front-End do Projeto">
 </p>
 
 ##  ⚙  Tecnologias utilizadas
