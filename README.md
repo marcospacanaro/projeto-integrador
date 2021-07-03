@@ -4,6 +4,11 @@
 <img src="https://i.imgur.com/SqKN2rp.png?1" alt="Imagem do logo do nosso projeto Do campo pra mesa é um círculo verde escuro com detalhes brancos e uma caixa com legumes em cima e em baixo escrito Do campo pra mesa" />
 </p>
 
+## ⚙ Front-End 
+<p align="center">
+<img src="https://imgur.com/n7W3bPD" alt="Front-End do Projeto">
+</p>
+
 ##  ⚙  Tecnologias utilizadas
 <p align="center">
 <img src="https://i.imgur.com/0yXQ93f.jpg" alt="tecnolgias utilizadas html, css, javascript, bootstrap, angular, typescript, java, spring boot, mysql, docker">
